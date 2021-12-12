@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Blog app</string>
+    <string name="i_am_manoj_bs_studing_in_surana_college_in_year_mca_in_bengalore_univarcity_surana_college_is_a_nice_college_we_learn_a_lots">i am manoj bs studing in surana college in year mca in bengalore univarcity surana college is a nice college we learn a lots</string>
+    <string name="read_more">READ MORE</string>
+    <string name="introduction_to_docker_a_begining">Introduction to Docker a Begining</string>
+    <string name="author_google">Author Google</string>
+    <string name="published_3h_ago">published 3h ago</string>
+</resources>
